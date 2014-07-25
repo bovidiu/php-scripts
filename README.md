@@ -1,4 +1,10 @@
-php-scripts
+General PHP Scripts
 ===========
 
-general scripts which should save development time
+This should be a list of different scripts that should save time development.
+
+Overview of files
+===========
+
+Restriction.php => Restricts users access based on user IP 
+
